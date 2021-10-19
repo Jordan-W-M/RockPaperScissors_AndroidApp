@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" />
+    <string name="logo">ROCK PAPER SCISSORS</string>
+    <string name="vs">VS</string>
+    <string name="player">Player</string>
+    <string name="jarvis">Jarvis</string>
+    <string name="zero">0</string>
+    <string name="popUP">Game Screen</string>
+    <string name="winner">WINNER</string>
+</resources>
